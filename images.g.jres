@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAMsMCwAAAACw3bsLAAAAANvdWwwAAACw3b1dzAAAu9vdW7XMALBbVdVbzc0Au1VVVdvczQBbHV1Vxd3NAFvxX1VVVc2wW/9LVVVVxVtb1URVVVXFtVvdRFVVVbULsEREVVVVuwAATLRbVdULAABAC7C7uwAAALAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ninjaImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAADwDwAAAAAAAL8PAAAAAA8Azw8AAAAA//+s/A8AAADwyzrK+wAAAAD/rPz/DwAAAADPDwAPAAAAAL8PAAAAAAAA/wAAAAAAAPAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "starImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
