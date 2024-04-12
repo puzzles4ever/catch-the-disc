@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "game-building-session-tutorials": "github:Code-Ninjas-Home-Office/game-building-session-tutorials#83e4f4ec86c0da3091f305d57e3dbb861a1affd4"
+        "game-building-session-tutorials": "github:Code-Ninjas-Home-Office/game-building-session-tutorials#83e4f4ec86c0da3091f305d57e3dbb861a1affd4",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
     },
     "files": [
         "main.blocks",

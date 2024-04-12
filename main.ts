@@ -1,3 +1,6 @@
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    blockSettings.clear()
+})
 info.onCountdownEnd(function () {
     if (info.score() > 25) {
         effects.confetti.startScreenEffect()
