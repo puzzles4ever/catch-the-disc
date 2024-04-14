@@ -1,4 +1,4 @@
-controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
     blockSettings.clear()
 })
 info.onCountdownEnd(function () {
